@@ -5,6 +5,7 @@ gem 'rails', '3.2.1'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+gem 'activerecord-postgresql-adapter'
 gem 'sqlite3'
 gem 'mysql2', :group => :production  
 
